@@ -3,31 +3,19 @@ layout: page
 title: Publication
 permalink: /publication/
 ---
-* **2022**
-<ol reversed>
-  <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2206.13910"> Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes</a>,” in  	arXiv:2206.13910, 2022.<a href="https://github.com/Tarun-Sharma9168/Optimal_Control_And_Decision_Making">[<b>Code</b>]</a> </li>
-</ol>
-
 * **2021**
 <ol reversed>
-  <li><b>S. S. Thomas</b>; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B.Blaschko, “ <a href="https://ieeexplore.ieee.org/document/9560711">Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization</a>,” in IEEE Transactions on Cybernetics (in press), 2021.</li>
-  <li>R. Giriraj; <b>S. S. Thomas</b>, “ <a href="https://arxiv.org/abs/2106.01043">Causal Discovery in Knowledge Graphs by Exploiting Asymmetric Properties of Non-Gaussian Distributions</a>,” in arXiv:2106.01043, 2021. <a href="https://www.github.com/rohangiriraj/CausalKG">[<b>Code</b>]</a></li>
   <li>V. Kumar; <b>S. S. Thomas</b>, “ <a href="https://arxiv.org/abs/2105.07193">Make Bipedal Robots Learn How to Imitate</a>,” in arXiv:2105.07193, 2021.<a href="https://github.com/8-vishal/Imitation-Learning-in-bipedal-robots">[<b>Code</b>]</a></li>
   <li>T. Xu; <b>S. S. Thomas</b>, “ <a href="https://sites.google.com/view/wicvcvpr2021/program/accepted-work">Unpaired Video Summarization using COT-GAN</a>,” in CVPR Workshops, 2021. </li>
-  <li>M. A. Solis; <b>S. S. Thomas</b>, “ <a href="https://arxiv.org/abs/2103.17158">Generalized State-Feedback Controller Synthesis for Underactuated Systems through Bayesian Optimization</a>,” in arXiv:2103.17158, 2021. <a href="https://github.com/miguel-a-solis/Solis-Thomas2021">[<b>Code</b>]</a></li>
-  <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2102.08213">A Novel Stochastic Epidemic Model with Application to COVID-19</a>,” in arXiv:2102.08213, 2021. </li>
-</ol>
+ </ol>
 
 * **2020**
 <ol reversed>
   <li>S. Mukherjee; <b>S. S. Thomas</b>, “<a href="https://wimlworkshop.org/neurips2020/program/">Deep Unfolding Approaches for Sparse Dictionary Learning in Video Summarization</a>,” 34th Conference on Neural Information Processing Systems Workshops (NeurIPS 2020), Vancouver, Canada, Dec 6-12, 2020. </li>
-  <li>O. T. James; <b>S. S. Thomas</b>, “ <a href="https://arxiv.org/abs/2010.01280">Bayesian Optimized Event Based Epidemic Modeling in India</a>,” in arXiv:2010.01280, 2020.</li>
-  <li>A. M. Paul; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2008.12127">Multifaceted COVID-19 Outbreak</a>,” in arXiv:2008.12127, 2020.</li>
-  </ol>
+</ol>
 
   * **2019**
 <ol reversed> 
-  <li><b>S. S. Thomas</b>; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim;M. B. Blaschko,“<a href="https://openreview.net/forum?id=tZ2Oqtl9-a5">Designing MacPherson Suspension Architectures using Bayesian Optimization</a>,” 28th Belgian Dutch Conference on Machine Learning, Brussels, Belgium, Nov 6-8, 2019.</li>
   <li><b>S. S. Thomas</b>; S. Gupta; Venkatesh K. S., “<a href="https://ieeexplore.ieee.org/document/8478284">Context Driven Optimized Perceptual Video Summarization and Retrieval</a>,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 10, pp. 3132-3145, Oct 2019.</li>
 </ol>
 
