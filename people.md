@@ -3,14 +3,25 @@ layout: page
 title: People
 permalink: /people/
 ---
-* **Master's**
+* **Current**
   <br/>
-  * Olivi T J, IIITMK 2020. 
-  * Roshni Kamath, KU Leuven Belgium 2020. 
-  * Guillaume Lamine, KU Leuven Belgium 2020.
-
-* **Undergraduate**
-  <br/>  
-  * Adriya P Shaji, Mahatma Gandhi University Kerala 2018.
-  * Diya K B, Mahatma Gandhi University Kerala 2018.
-  * Merin Jovin, Mahatma Gandhi University Kerala 2018.
+  * **Masters**
+    <br/>
+    * Rafi R
+    * Meghasree Sengupta
+    * Gokul Jayaraj
+    * Mainak Sen
+    * Mohammad Anshad K
+    * Basil K Raju
+    * Gourinath H S
+    * Ajmala Rasheed Chandana Parambil 
+  * **Project**
+    <br/>
+    * Sumesh Sankar
+  
+  * **Alumni**
+    <br/>  
+    * Ravi Prakash, IIITMK 2022.
+    * Vishal Kumar, IIITMK 2022.
+    * Vishal Kumar, IIITMK 2021.
+    * Pinkey Yadav, IIITMK 2021. 
