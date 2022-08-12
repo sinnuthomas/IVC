@@ -23,9 +23,9 @@ permalink: /people/
     <br/>
     * Sumesh Sankar
   
-  * **Alumni**
-    <br/>  
-    * Ravi Prakash, IIITMK 2022.
-    * Vishal Kumar, IIITMK 2022.
-    * Vishal Kumar, IIITMK 2021.
-    * Pinkey Yadav, IIITMK 2021. 
+* **Alumni**
+  <br/>  
+  * Ravi Prakash, IIITMK 2022.
+  * Vishal Kumar, IIITMK 2022.
+  * Vishal Kumar, IIITMK 2021.
+  * Pinkey Yadav, IIITMK 2021. 
