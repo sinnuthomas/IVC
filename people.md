@@ -9,6 +9,10 @@ permalink: /people/
 
 * **Current**
   <br/>
+  * **Project**
+    <br/>
+    * Sumesh Sankar
+
   * **Masters**
     <br/>
     * Rafi R
@@ -19,10 +23,7 @@ permalink: /people/
     * Basil K Raju
     * Gourinath H S
     * Ajmala Rasheed Chandana Parambil 
-  * **Project**
-    <br/>
-    * Sumesh Sankar
-  
+    
 * **Alumni**
   <br/>  
   * Ravi Prakash, IIITMK 2022.
