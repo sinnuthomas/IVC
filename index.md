@@ -3,26 +3,20 @@ layout: page
 title: Lab
 ---
 
+
 <script src="./script/slodeshow.js" defer="defer"></script>
-
-
-
 <div id="slider">
     
     <ul id="slideWrap"> 
+      <li><img src="Image.jpeg" alt="Team - IVC Lab (Image)"></li>
       <li><img src="Image.jpeg" alt=""></li>
-      <li><img src="Image.jpeg" alt=""></li>
-      <li><img src="Image.jpeg" alt=""></li>
-      <li><img src="Image.jpeg" alt=""></li>
-      <li><img src="Image.jpeg" alt=""></li>
+      <!-- THIS FIELD CAN BE REPLACED BY EXACTLY ABOVE LOOKING IMAGES, EMBEDDED IN 'li' ITEMS -->
+      <!-- 'alt' CONTENT IS DISPLAYED IN CASE IF THE IMAGE IS NOT LOADED -->
     </ul>
     
     <a id="prev" href="#">&#8810;</a>
     <a id="next" href="#">&#8811;</a>
 </div>
-
-
-
 
 
 <!-- <img align="left" src="Image.jpeg" width="1320" > -->
