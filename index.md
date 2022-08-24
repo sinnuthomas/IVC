@@ -8,6 +8,7 @@ title: Lab
 
 
 <div id="slider">
+    <center>
     <ul id="slideWrap"> 
     <a id="prev" href="#">&#8810;</a>
       <li><img src="Image.jpeg" alt=""></li>
@@ -17,6 +18,7 @@ title: Lab
       <li><img src="Image.jpeg" alt=""></li>
     <a id="next" href="#">&#8811;</a>
     </ul>
+    </center>
 </div>
 
 
