@@ -3,7 +3,23 @@ layout: page
 title: Lab
 ---
 
-<img align="left" src="Image.jpeg" width="1320" >
+
+<script src="./script/slodeshow.js" defer="defer"></script>
+<div id="slider">
+    
+    <ul id="slideWrap"> 
+      <li><img src="Image.jpeg" alt="Team - IVC Lab (Image)"></li>
+      <li><img src="Image.jpeg" alt=""></li>
+      <!-- THIS FIELD CAN BE REPLACED BY EXACTLY ABOVE LOOKING IMAGES, EMBEDDED IN 'li' ITEMS -->
+      <!-- 'alt' CONTENT IS DISPLAYED IN CASE IF THE IMAGE IS NOT LOADED -->
+    </ul>
+    
+    <a id="prev" href="#">&#8810;</a>
+    <a id="next" href="#">&#8811;</a>
+</div>
+
+
+<!-- <img align="left" src="Image.jpeg" width="1320" > -->
 
 ## Research Interests
 * [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
@@ -31,3 +47,6 @@ title: Lab
 
 <br/><br/>
 <p><small>Successful and unsuccessful people do not vary greatly in their abilities.They vary in their desires to reach their potential. – John Maxwell </small></p>
+
+
+
