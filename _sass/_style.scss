@@ -4,8 +4,8 @@ body {
 
 #slider {
   position: relative;
-  width: 500px;
-  height: 265px;
+  width: 1320px;
+  height: 880px;
 
   overflow: hidden;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
@@ -29,7 +29,7 @@ body {
   float: left;
 }
 
-    
+
 #slider #prev, #slider #next {
   width: 50px;
   line-height: 50px;
@@ -44,7 +44,7 @@ body {
   transform: translateY(-50%);
   transition: all 150ms ease;
 }
-    
+
 #slider ul li img{
   width: 500px;
   height: 265px;
@@ -65,7 +65,7 @@ body {
   transition: all 150ms ease;
 }
 
-   
+
 #slider #prev {
   left: 10px;
 }
