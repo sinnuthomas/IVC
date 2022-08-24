@@ -4,8 +4,7 @@ body {
 
 #slider {
   position: relative;
-  width: 850px;
-  height: 500px;
+  max-width: 100%;
 
   overflow: hidden;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
@@ -46,8 +45,7 @@ body {
 }
 
 #slider ul li img{
-  width: 850px;
-  height: 500px;
+  max-width: 100%;
 }
 
 #slider #prev, #slider #next {
