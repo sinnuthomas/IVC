@@ -21,8 +21,6 @@ permalink: /team/
     * Mainak Sen
     * Mohammad Anshad K
     * Basil K Raju
-    * Gourinath H S
-    * Ajmala Rasheed Chandana Parambil 
     
 * **Alumni**
   <br/>  
