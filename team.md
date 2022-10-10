@@ -18,9 +18,7 @@ permalink: /team/
     * Rafi R
     * Meghasree Sengupta
     * Gokul Jayaraj
-    * Mainak Sen
-    * Mohammad Anshad K
-    * Basil K Raju
+    * Mainak Sen    
     
 * **Alumni**
   <br/>  
