@@ -24,5 +24,5 @@ permalink: /team/
   <br/>  
   * Ravi Prakash, IIITMK 2022.
   * Vishal Kumar, IIITMK 2022.
-  * Vishal Kumar, IIITMK 2021.
+  * Vishal Kumar, IIITMK 2021. Currently with IIITD as Research Scholar.
   * Pinkey Yadav, IIITMK 2021. 
