@@ -16,12 +16,11 @@ permalink: /team/
   * **Masters**
     <br/>
     * Rafi R
-    * Meghasree Sengupta
-    * Gokul Jayaraj
-    * Mainak Sen    
     
 * **Alumni**
   <br/>  
+  * Meghasree Sengupta, IIITMK 2022.
+  * Gokul Jayaraj, IIITMK 2022.
   * Ravi Prakash, IIITMK 2022.
   * Vishal Kumar, IIITMK 2022.
   * Vishal Kumar, IIITMK 2021. Currently with IIITD as Research Scholar.
