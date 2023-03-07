@@ -10,8 +10,11 @@ title: Lab
 * [Image](https://en.wikipedia.org/wiki/Digital_image_processing) / [Video Signal Processing](https://en.wikipedia.org/wiki/Video_processing)
 
 ## Openings
-* [Jul 2022] [PhD Openings](https://duk.ac.in/doctoral-programmes-at-duk/):<br/>
-    Currently seeking brilliant and highly motivated PhD students to join our research group.
+* [Mar 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
+    Currently seeking brilliant and highly motivated PhD students to join our research group. 
+
+* [Jun 2023] Paid Internship:<br/>
+    Currently seeking brilliant and highly motivated BTech /MSc students to join for internship for two months. 
     
     
     
