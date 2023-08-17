@@ -15,10 +15,11 @@ permalink: /team/
 
   * **Masters**
     <br/>
-    * Rafi R
+    * Govind G
     
 * **Alumni**
-  <br/>  
+  <br/>
+  * Rafi R, DUK, 2023. 
   * Meghasree Sengupta, IIITMK 2022.
   * Gokul Jayaraj, IIITMK 2022.
   * Ravi Prakash, IIITMK 2022.
