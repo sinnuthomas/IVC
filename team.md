@@ -19,7 +19,7 @@ permalink: /team/
     
 * **Alumni**
   <br/>
-  * Rafi R, DUK, 2023. 
+  * Rafi R, DUK, 2023. Currently with SunTec.
   * Meghasree Sengupta, IIITMK 2022.
   * Gokul Jayaraj, IIITMK 2022.
   * Ravi Prakash, IIITMK 2022.
