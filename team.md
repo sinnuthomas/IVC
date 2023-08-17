@@ -22,7 +22,7 @@ permalink: /team/
   * Rafi R, DUK, 2023. Currently with SunTec.
   * Meghasree Sengupta, IIITMK 2022.
   * Gokul Jayaraj, IIITMK 2022.
-  * Ravi Prakash, IIITMK 2022.
+  * Ravi Prakash, IIITMK 2022. Currently with DUK as Research Scholar.
   * Vishal Kumar, IIITMK 2022.
   * Vishal Kumar, IIITMK 2021. Currently with IIITD as Research Scholar.
   * Pinkey Yadav, IIITMK 2021. 
