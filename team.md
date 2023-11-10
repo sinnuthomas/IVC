@@ -9,9 +9,9 @@ permalink: /team/
 
 * **Current Members**
   <br/>
-  * **Project**
+  * **PhDroject**
     <br/>
-    * Sumesh Sankar
+    * Archana Vijayan
 
   * **Masters**
     <br/>
@@ -19,6 +19,7 @@ permalink: /team/
     
 * **Alumni**
   <br/>
+  * Sumesh Sankar, 2023. Currently with KSEB.
   * Rafi R, DUK, 2023. Currently with SunTec.
   * Meghasree Sengupta, IIITMK 2022.
   * Gokul Jayaraj, IIITMK 2022.
