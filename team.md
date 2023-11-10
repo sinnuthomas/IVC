@@ -9,7 +9,7 @@ permalink: /team/
 
 * **Current Members**
   <br/>
-  * **PhDroject**
+  * **PhD**
     <br/>
     * Archana Vijayan
 
