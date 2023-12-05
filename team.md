@@ -20,8 +20,8 @@ permalink: /team/
     
 * **Alumni**
   <br/>
-  * Sumesh Sankar, 2023. Currently with KSEB.
-  * Rafi R, DUK, 2023. Currently with Federal Bank as Data Scientist.
+  * Sumesh Sankar, Research Associate 2022-2023. Currently with Kerala State Electricity Board as Assistant Engineer.
+  * Rafi R, MTech DUK, 2023. Currently with Federal Bank Limited as Data Scientist.
   * Meghasree Sengupta, IIITMK 2022.
   * Gokul Jayaraj, IIITMK 2022.
   * Ravi Prakash, IIITMK 2022. Currently with DUK as Research Scholar.
