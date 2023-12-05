@@ -21,7 +21,7 @@ permalink: /team/
 * **Alumni**
   <br/>
   * Sumesh Sankar, 2023. Currently with KSEB.
-  * Rafi R, DUK, 2023. Currently with SunTec.
+  * Rafi R, DUK, 2023. Currently with Federal Bank as Data Scientist.
   * Meghasree Sengupta, IIITMK 2022.
   * Gokul Jayaraj, IIITMK 2022.
   * Ravi Prakash, IIITMK 2022. Currently with DUK as Research Scholar.
