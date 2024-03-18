@@ -16,7 +16,6 @@ permalink: /team/
   * **Masters**
     <br/>
     * Reema P P
-    * Govind G
     
 * **Alumni**
   <br/>
