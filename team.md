@@ -11,7 +11,7 @@ permalink: /team/
   <br/>
   * **PhD**
     <br/>
-    * Archana Vijayan
+    * 
 
   * **Masters**
     <br/>
