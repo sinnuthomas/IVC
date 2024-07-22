@@ -20,6 +20,7 @@ permalink: /team/
 * **Alumni**
   <br/>
   * Reema P P, DUK 2024.
+  * Nikhil C R, DUK 2024.
   * Sumesh Sankar, Research Associate 2022-2023. Currently with Kerala State Electricity Board Limited as Sub Electrical Engineer.
   * Rafi R, MTech DUK, 2023. Currently with Federal Bank Limited as Data Scientist.
   * Meghasree Sengupta, IIITMK 2022.
