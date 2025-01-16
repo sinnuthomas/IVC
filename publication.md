@@ -3,6 +3,11 @@ layout: page
 title: Publication
 permalink: /publication/
 ---
+* **2024**
+<ol reversed>
+  <li>R. Prakash; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2409.00779"> Unbalanced Fingerprint Classification for Hybrid Fingerprint Orientation Maps</a>,” in  	arXiv:2409.00779, 2024. [<b>Code available on request</b>]</li>
+ </ol>
+
 * **2023**
 <ol reversed>
   <li>R. Badarinath; B. K. Raju; M. Anshad K; V. Prabhu; <b>S. S. Thomas</b>, “Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication,” in  IFAC World Congress, Yokohawa, Japan, Jul 9-14, 2023.[<b>Code available on request</b>]</li>
