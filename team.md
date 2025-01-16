@@ -23,7 +23,7 @@ permalink: /team/
   * Nikhil C R, DUK 2024.
   * Sumesh Sankar, Research Associate 2022-2023. Currently with Kerala State Electricity Board Limited as Sub Electrical Engineer.
   * Rafi R, MTech DUK, 2023. Currently with Federal Bank Limited as Data Scientist.
-  * Meghasree Sengupta, IIITMK 2022.
+  * Meghasree Sengupta, IIITMK 2022. Currently with Miles Education as Associate Machine Learning Engineer.
   * Gokul Jayaraj, IIITMK 2022. Currently with Ombrulla as AI Engineer.
   * Ravi Prakash, IIITMK 2022. Currently with DUK as Research Scholar.
   * Vishal Kumar, IIITMK 2022.
