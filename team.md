@@ -15,7 +15,7 @@ permalink: /team/
 
   * **Masters**
     <br/>
-    * 
+    * Ardhra A M
     
 * **Alumni**
   <br/>
