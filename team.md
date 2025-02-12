@@ -16,7 +16,6 @@ permalink: /team/
   * **Masters**
     <br/>
     * Ardhra A M
-    * Dawn Jo Justine
     
 * **Alumni**
   <br/>
