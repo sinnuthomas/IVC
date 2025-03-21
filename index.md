@@ -3,7 +3,7 @@ layout: page
 title: Lab
 ---
 
-<img align="left" src="Image.jpeg" width="1320" >
+<img align="left" src="IMG_3926.JPG" width="1320" >
 
 ## Research Interests
 * [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
