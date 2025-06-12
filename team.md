@@ -15,10 +15,11 @@ permalink: /team/
 
   * **Masters**
     <br/>
-    * Ardhra A M
+    * 
     
 * **Alumni**
   <br/>
+  * Ardhra A M, DUK 2025.
   * Reema P P, DUK 2024.
   * Nikhil C R, DUK 2024.
   * [Sumesh Sankar](https://in.linkedin.com/in/sumesh-sankar-438ab1211), Research Associate 2022-2023. Currently with Kerala State Electricity Board Limited as Sub Electrical Engineer.
