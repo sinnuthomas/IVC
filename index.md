@@ -10,7 +10,7 @@ title: Lab
 * [Image](https://en.wikipedia.org/wiki/Digital_image_processing) / [Video Signal Processing](https://en.wikipedia.org/wiki/Video_processing)
 
 ## Openings
-* [Jan 2025] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
+* [Mar 2026] [PhD Openings](https://duk.ac.in/admissions/doctoral/phd/):<br/>
     Currently seeking brilliant and highly motivated PhD students to join our research group.     
     
 ## Contact Details
