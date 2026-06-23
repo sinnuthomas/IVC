@@ -19,6 +19,7 @@ permalink: /team/
     
 * **Alumni**
   <br/>
+  * [Ananth Sankar](https://in.linkedin.com/in/ananthsankar2003), MSc DUK, 2026. Currently with IBS Software.
   * Ardhra A M, DUK 2025.
   * Reema P P, DUK 2024.
   * Nikhil C R, DUK 2024.
